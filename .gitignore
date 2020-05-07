@@ -1,3 +1,5 @@
-spark-warehouse
+spark-warehouse/
 output_path
-.idea
+.idea/
+.ipynb_checkpoints/
+.gitignore
